@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--Do Not Modify this File Manually, Application May Stop Working.-->
+<!--Deleting this File Will Result into Resetting the Application & database Connection String.-->
+<!--Application Need Complete Access to This File, to Work Properly.-->
+
+<Settings>
+	<DefaultConnectionString>Data Source=ASUSFX553VD;Initial Catalog=HMS;Integrated Security=True</DefaultConnectionString>
+	<CurrentConnectionString>Data Source=ASUSFX553VD;Initial Catalog=HMS;Integrated Security=True</CurrentConnectionString>
+	<CurrentColorTheme>Light</CurrentColorTheme>
+	<CustomBorderColor>#FF0AA1AC</CustomBorderColor>
+</Settings>
