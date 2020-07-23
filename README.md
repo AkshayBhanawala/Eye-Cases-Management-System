@@ -56,10 +56,10 @@ Application to manage Appointments for an Ophthalmologist.
 ### Print Cases
 ![Print Cases](https://i.imgur.com/nkqot2G.png)
 
-### A4 Print Format
+### Print Format - A4 Page
 ![Print Format - A4 Page](https://i.imgur.com/0uPYLXK.png)
 
-### New
+### Print Format - Letter Head
 ![Print Format - Letter Head](https://i.imgur.com/LfWdZnq.png)
 
 ### A4 vs Letter Head Size
